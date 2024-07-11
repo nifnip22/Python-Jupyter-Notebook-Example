@@ -1,6 +1,9 @@
 # Ignore virtual environment folder
 .venv/
 
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
 # Ignore other generated files
 *.pyc
 __pycache__/
